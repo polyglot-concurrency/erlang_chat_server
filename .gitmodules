@@ -1,0 +1,3 @@
+[submodule "apps/chat_server/src/lib"]
+	path = apps/chat_server/src/lib
+	url = git@github.com:polyglot-concurrency/erlang_chat_lib.git
